@@ -33,3 +33,15 @@ Creates:
 - Worker Nodes
 - NGINX Ingress Controller
 - Metrics Server
+## Testing
+
+This project includes automated infrastructure testing using Terratest.
+
+### Run Tests
+
+```bash
+cd test
+
+go mod tidy
+
+go test -v
