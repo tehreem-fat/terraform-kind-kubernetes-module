@@ -1,5 +1,5 @@
 # Terraform Kind Kubernetes Module
-
+![CI](https://github.com/tehreem-fat/terraform-kind-kubernetes-module/actions/workflows/ci.yml/badge.svg)
 ![Terraform](https://img.shields.io/badge/Terraform-v1.6+-623CE4?logo=terraform)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.27+-326CE5?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker)
