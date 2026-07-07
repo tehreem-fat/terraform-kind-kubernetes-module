@@ -1,0 +1,9 @@
+kind: Cluster
+apiVersion: kind.x-k8s.io/v1alpha4
+
+nodes:
+- role: control-plane
+
+%{ for i in range(node_count) ~}
+- role: worker
+%{ endfor ~}
