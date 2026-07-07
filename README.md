@@ -309,11 +309,9 @@ Pipeline stages:
 
 **Tehreem Fatima**
 
-Systems Administrator | Cloud & DevOps Enthusiast
+[![GitHub](https://img.shields.io/badge/GitHub-tehreem--fat-181717?logo=github)](https://github.com/tehreem-fat)
 
-GitHub: https://github.com/tehreem-fat
-
-LinkedIn: https://linkedin.com/in/tehreem-f-883ba1151
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tehreem%20Fatima-0A66C2?logo=linkedin)](https://linkedin.com/in/tehreem-f-883ba1151)
 
 ---
 
