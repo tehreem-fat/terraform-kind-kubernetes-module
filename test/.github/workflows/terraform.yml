@@ -1,0 +1,3 @@
+terraform fmt
+terraform validate
+go test
