@@ -83,6 +83,11 @@ GitHub Actions workflow automatically:
 - Runs tests
 - Verifies project integrity
 
+## CI/CD Pipeline
+
+This project uses GitHub Actions for automated validation and testing.
+
+![GitHub Actions Success](docs/github-actions-success.png)
 ---
 
 ## Project Structure
